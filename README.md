@@ -1,25 +1,89 @@
-# 💫 About Me:
-<br>I'm a software engineering student with a passion for developing applications that make a difference in people's lives. <br>My expertise lies in designing and building robust, highly scalable applications, utilizing the latest technologies and development practices.<br><br>👯 I am ready to collaborate on Fullstack Internship.<br>⚡ i am an avid gamer and have been playing video games since i was a child.
+<h1 align="center">Hi , I'm Youssef <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=20C20E&center=true&vCenter=true&random=false&width=435&lines=Computer+Science+student;DS+%26+ML+enthusiast+in+the+morning;Software+developer+at+night" alt="Typing SVG" /></a>
+</p>
+
+<br/> I'm a computer science student with a passion for developing applications that make a difference in people's lives. 💻❤️
+<br/> I am ready to collaborate on Fullstack Internship.👯
+<br/> I am an avid gamer and have been playing video games since I was a child. ⚡🎮
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/youssef.elothmani.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/youssefo_o_o) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-el-othmani-714458204) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=youssef-404&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=youssef-404&theme=dark&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-404&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+### 💻🛠️ My Skills:
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=youssef-404&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+#### Programming languages:
+&emsp;
+![C](https://img.shields.io/badge/-c-000?&logo=c) 
+![C++](https://img.shields.io/badge/-c++-000?&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-java-000?&logo=java) 
+![PHP](https://img.shields.io/badge/-php-000?&logo=php) 
+![Python](https://img.shields.io/badge/-python-000?&logo=python)
+![JavaScript](https://img.shields.io/badge/-javascript-000?&logo=javascript)
+![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=ruby)
+
+
+#### Full Stack development:
+&emsp;
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind--CSS-000?&logo=Tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+
+&emsp;
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
+![JEE](https://img.shields.io/badge/-JEE-000?&logo=javaEE)
+![Ruby On Rails](https://img.shields.io/badge/-ruby--on--rails-000?&logo=rubyonrails)
+![Django](https://img.shields.io/badge/-Django-000?&logo=django)
+
+#### data science & machine learning development:
+&emsp;
+![R](https://img.shields.io/badge/-R-000?&logo=r) 
+![NumPy](https://img.shields.io/badge/-Numpy-000?&logo=numpy) 
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) 
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000?&logo=Scikit-learn) 
+![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras) 
+
+#### Databases:
+&emsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase) 
+![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=oracle) 
+
+#### Misc tools:
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
+![Trello](https://img.shields.io/badge/-Trello-000?&logo=Trello)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=Eclipse)
+
+
+### 💻 Profile Stats
+
+<p align="center">
+  <img alt="Youssef's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=youssef-404&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Youssef's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-404&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+</p>
+
+### 🙋‍♂️ Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-el-othmani-714458204) 
+
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-youssef-404/youssef-404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
