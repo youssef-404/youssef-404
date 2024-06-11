@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Youssef <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+![Banner](banner.png)
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=20C20E&center=true&vCenter=true&random=false&width=435&lines=Computer+Science+student;DS+%26+ML+enthusiast+in+the+morning;Software+developer+at+night" alt="Typing SVG" /></a>
